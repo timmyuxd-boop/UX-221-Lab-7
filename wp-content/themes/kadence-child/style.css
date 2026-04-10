@@ -1,0 +1,19 @@
+/*
+Theme Name:     kadence-child
+Description:    
+Author:         Timbuns
+Template:       kadence
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+:root {
+  --primary: #4D7CFE;
+  --secondary: #F5F7FF;
+  --accent: #FFC857;
+  --text-dark: #1F2937;
+  --text-light: #6B7280;
+  --white: #FFFFFF;
+  --radius: 12px;
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
