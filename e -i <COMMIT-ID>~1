@@ -1,0 +1,54 @@
+[33mcommit f27888421b7ed8569b92adbe09634097c944c445[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 15:12:33 2026 +0000
+
+    clean upload
+
+[33mcommit ebe4924103d70d3023fce1257b61ee3dd48af374[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 15:07:12 2026 +0000
+
+    lol
+
+[33mcommit 821b2884d304f8c760edb4a6db3dda1f82837a06[m
+Merge: d133053 9052f27
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 15:02:11 2026 +0000
+
+    Merge branch 'main' of https://github.com/timmyuxd-boop/UX-221-Lab-7 into HEAD
+
+[33mcommit d13305392b4ea4e4db2f3feb6f7a60a18ee3c917[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 15:00:13 2026 +0000
+
+    upload project
+
+[33mcommit 58df28feba6f38da78f6f94b74a13496dd57bae4[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 14:48:54 2026 +0000
+
+    LOL
+
+[33mcommit ffaa327d41d0207e838ba9e9973f1abb4ffbb018[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 13 14:43:29 2026 +0000
+
+    jobs
+
+[33mcommit 9052f274845d1c23cdab3ca65fe28760004df9e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Thu Apr 9 22:21:14 2026 -0400
+
+    Delete .github/workflows/main.yml
+
+[33mcommit f17cda502a93bc7d76698e54006950662ede6ab9[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Fri Apr 10 01:43:40 2026 +0000
+
+    jobs for students
+
+[33mcommit c0788f1fa84252a79e2768c174132cab0630f433[m
+Author: timmyuxd-boop <timmyuxd@gmail.com>
+Date:   Mon Apr 6 14:57:30 2026 -0400
+
+    Initial commit
